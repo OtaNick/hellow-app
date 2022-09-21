@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hola Kotlin</string>
+    <string name="etEscribe">Escribe alguna vaina aquí</string>
+</resources>
